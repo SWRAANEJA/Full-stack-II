@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "email": "admin1@example.com",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "Ananya Gupta",
+    "email": "admin2@example.com",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Verma",
+    "email": "admin3@example.com",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "id": 4,
+    "name": "Priya Singh",
+    "email": "admin4@example.com",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "id": 5,
+    "name": "Karan Mehta",
+    "email": "admin5@example.com",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "id": 6,
+    "name": "Ishita Kapoor",
+    "email": "editor1@example.com",
+    "password": "editor123",
+    "role": "editor"
+  },
+  {
+    "id": 7,
+    "name": "Aditya Malhotra",
+    "email": "editor2@example.com",
+    "password": "editor123",
+    "role": "editor"
+  },
+  {
+    "id": 8,
+    "name": "Sneha Joshi",
+    "email": "editor3@example.com",
+    "password": "editor123",
+    "role": "editor"
+  },
+  {
+    "id": 9,
+    "name": "Arjun Bansal",
+    "email": "editor4@example.com",
+    "password": "editor123",
+    "role": "editor"
+  },
+  {
+    "id": 10,
+    "name": "Kavya Arora",
+    "email": "editor5@example.com",
+    "password": "editor123",
+    "role": "editor"
+  },
+  {
+    "id": 11,
+    "name": "Rahul Khanna",
+    "email": "editor6@example.com",
+    "password": "editor123",
+    "role": "editor"
+  },
+  {
+    "id": 12,
+    "name": "Mehak Jain",
+    "email": "editor7@example.com",
+    "password": "editor123",
+    "role": "editor"
+  },
+  {
+    "id": 13,
+    "name": "Vikas Yadav",
+    "email": "editor8@example.com",
+    "password": "editor123",
+    "role": "editor"
+  },
+  {
+    "id": 14,
+    "name": "Simran Kaur",
+    "email": "editor9@example.com",
+    "password": "editor123",
+    "role": "editor"
+  },
+  {
+    "id": 15,
+    "name": "Nikhil Saini",
+    "email": "editor10@example.com",
+    "password": "editor123",
+    "role": "editor"
+  },
+  {
+    "id": 16,
+    "name": "Aman Kumar",
+    "email": "viewer1@example.com",
+    "password": "viewer123",
+    "role": "viewer"
+  },
+  {
+    "id": 17,
+    "name": "Neha Sharma",
+    "email": "viewer2@example.com",
+    "password": "viewer123",
+    "role": "viewer"
+  },
+  {
+    "id": 18,
+    "name": "Ritika Verma",
+    "email": "viewer3@example.com",
+    "password": "viewer123",
+    "role": "viewer"
+  },
+  {
+    "id": 19,
+    "name": "Mohit Gupta",
+    "email": "viewer4@example.com",
+    "password": "viewer123",
+    "role": "viewer"
+  },
+  {
+    "id": 20,
+    "name": "Pooja Singh",
+    "email": "viewer5@example.com",
+    "password": "viewer123",
+    "role": "viewer"
+  },
+  {
+    "id": 21,
+    "name": "Dev Malhotra",
+    "email": "viewer6@example.com",
+    "password": "viewer123",
+    "role": "viewer"
+  },
+  {
+    "id": 22,
+    "name": "Riya Kapoor",
+    "email": "viewer7@example.com",
+    "password": "viewer123",
+    "role": "viewer"
+  },
+  {
+    "id": 23,
+    "name": "Sahil Joshi",
+    "email": "viewer8@example.com",
+    "password": "viewer123",
+    "role": "viewer"
+  },
+  {
+    "id": 24,
+    "name": "Tanya Arora",
+    "email": "viewer9@example.com",
+    "password": "viewer123",
+    "role": "viewer"
+  },
+  {
+    "id": 25,
+    "name": "Yash Bansal",
+    "email": "viewer10@example.com",
+    "password": "viewer123",
+    "role": "viewer"
+  },
+  {
+    "id": 26,
+    "name": "Muskan Jain",
+    "email": "viewer11@example.com",
+    "password": "viewer123",
+    "role": "viewer"
+  },
+  {
+    "id": 27,
+    "name": "Harsh Yadav",
+    "email": "viewer12@example.com",
+    "password": "viewer123",
+    "role": "viewer"
+  },
+  {
+    "id": 28,
+    "name": "Naina Saini",
+    "email": "viewer13@example.com",
+    "password": "viewer123",
+    "role": "viewer"
+  },
+  {
+    "id": 29,
+    "name": "Lakshya Mehta",
+    "email": "viewer14@example.com",
+    "password": "viewer123",
+    "role": "viewer"
+  },
+  {
+    "id": 30,
+    "name": "Aditi Khanna",
+    "email": "viewer15@example.com",
+    "password": "viewer123",
+    "role": "viewer"
+  }
+]
